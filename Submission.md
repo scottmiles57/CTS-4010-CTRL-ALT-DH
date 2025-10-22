@@ -14,3 +14,9 @@
 *Full artwork as is:*
 
 <img src="cts3000-final.png" alt="Data Collage"/>
+
+# **CTRL+ALT+DH - A Byte of Creativity**
+# -Student Journal Submission Review-
+
+
+
