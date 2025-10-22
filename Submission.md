@@ -15,8 +15,13 @@
 
 <img src="cts3000-final.png" alt="Data Collage"/>
 
-# **CTRL+ALT+DH - A Byte of Creativity**
-# -Student Journal Submission Review-
+> # **CTRL+ALT+DH - A Byte of Creativity**
+>>  ## **Student Journal Submission Review**
+> ### **Submission Author:** Isabelle Viray
+> ### **Project Reviewer/Editor:** Scott Bracey
+> ### **Project Format:** Digital Self-Portrait/Data-Collage
+> ### **Date of Completion:** April 21st, 2025
+> ### **Date of Review/Edit:** October 22nd, 2025 
 
 
 
