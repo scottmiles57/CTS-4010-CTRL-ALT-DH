@@ -37,7 +37,7 @@
 > > - [Online Identity Psychology Article](https://www.psychologytoday.com/ca/blog/just-you/202110/how-the-internet-shapes-who-we-are)
 > > - [Data Security and AI Article](https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information)
 > **b)** Does the author have an engaging writing style which grabs the reader's attention?
-> >  The author makes use of a very engaging writing style and it is obvious that the content was thoughtfully planned out before the writing commenced. As said before, the content on the blog does an excellent job at leading the reader through the various rationales behind the project while also providing academic context to the work and holding the attention of the reader throughout. My only note related to engagement would be that the academic Contextualization paragraphs went on a little too long. If possible, splitting one of, or both, of the larger paragraphs (#3 or #4) into 2 would help emphasize the point being made in each. 
+> >  The author makes use of a very engaging writing style, and it is obvious that the content was thoughtfully planned out before the writing commenced. As said before, the content on the blog does an excellent job at leading the reader through the various rationales behind the project while also providing academic context to the work and holding the attention of the reader throughout. My only note related to engagement would be that the academic Contextualization paragraphs went on a little too long. If possible, splitting one of, or both, of the larger paragraphs (#3 or #4) into 2 would help emphasize the point being made in each. 
 > **c)** Are there any grammar or spelling errors?
 >> No noticeable spelling or grammatical errors!  
 
