@@ -32,8 +32,13 @@
 --- 
 >>## 1) Communication, Style, & Polish (0 / 5)
 
-> **a)** Is the written content clear, concise, and does it have a logical flow?  
-> **b)** Does the author have an engaging writing style which grabs the reader's attention?  
+> **a)** Is the written content clear, concise, and does it have a logical flow?
+> >The written content of this project is very well thought out and has an organized, logical flow from the summary of the project, contextualization, conception, and reflection on content. The writing not only does a great job at explaining the project and its relevance to our data-driven world, but it also prompts the reader to question their own digital data footprint and how they might be represented in data. I only have one note/suggestion that I think might improve this project, and it's not even a critique. I found the last paragraph of the blog post, in which you reflect on how, even in your "expose" of how we "performatively" represent ourselves online through our data, you also manipulated the data in the self-portrait to represent yourself a certain way, to be the most interesting part. I think you should expand upon this reflection and relate it to the ignorance that many people have towards the risks of data farming. I would say at least expand upon this reflection, I will only give suggestions of how I think it should, but everything is up to you. That being said, if possible, you should include another reference to an article in this reflection section. I think one about the psychological effects of the internet/online representation and/or one about the future of data security and the threats against it from AI would fit in nicely here
+> > - [Online Identity Psychology Article](https://www.psychologytoday.com/ca/blog/just-you/202110/how-the-internet-shapes-who-we-are)
+> > - [Data Security and AI Article](https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information)
+
+> **b)** Does the author have an engaging writing style which grabs the reader's attention?
+> >  
 > **c)** Are there any grammar or spelling errors?
 
 --- 
