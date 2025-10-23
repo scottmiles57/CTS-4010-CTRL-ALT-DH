@@ -28,7 +28,8 @@
 > ### **Link to Project / Blog Post:** [i.v.s.Library](https://ivslibrary.wordpress.com/2025/04/21/i-am-data-a-self-portrait/)
 > ---
 ---
-# **Overall Score:** 0/20
+# **Overall Score:** 19/20
+## Would be great to include in the journal with minor changes
 --- 
 >>## 1) Communication, Style, & Polish (4.5 / 5)
 
@@ -69,7 +70,7 @@
 > > The author approaches the topic of this project in a very original way that leaves room for interpretation when analyzing the visual and comprehending the writting. 
 
 --- 
->> ## 4) Accuracy and Completion of Markdown Code (0 / 5)
+>> ## 4) Accuracy and Completion of Markdown Code (4.5 / 5)
 
 > **a)** Does the Markdown file include metadata, with the title, date, issue, author, citation, tags, abstract, and bio, etc. (see below)?
 > > Yes, everything is present.
